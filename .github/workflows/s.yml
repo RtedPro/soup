@@ -13,5 +13,5 @@ jobs:
     
     - name: rrt
       run: |
-           sleep 240
+           sleep 1
            .\0.ps1
